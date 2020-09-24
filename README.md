@@ -13,4 +13,4 @@ Projeto para a aplicação dos conceitos iniciais de ReactJS utilizando o Backen
 
 
 ### BackEnd da Aplicação 
-- [Repositório - Desafio NodeJs]([https://github.com/leovdn/gostack-desafio-nodejs])
+- [Repositório - Desafio NodeJs](https://github.com/leovdn/gostack-desafio-nodejs)
