@@ -15,7 +15,7 @@ function App() {
 
   async function handleAddRepository() {
     const response = await api.post('repositories', {
-      title: "Mobile com React Native",
+      title: "Item Adicionado",
       url: "https://github.com/leovdn/",
       techs: "React Native, NodeJS"
     });
@@ -33,8 +33,10 @@ function App() {
     setRepositories(noDeleted);
   }
 
-  return (
+  return (    
     <div>
+      <h1>GoStack - Desafio ReactJS</h1>
+      <p>Clique em "Adicionar" para inserir um item na lista</p>
       <ul data-testid="repository-list">
         {repositories.map(repo => {
           return <li key={repo.id}>
