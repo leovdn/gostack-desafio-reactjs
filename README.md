@@ -2,7 +2,7 @@
 
 Projeto para a aplicação dos conceitos iniciais de ReactJS utilizando o Backend em NodeJs criado no desafio anterior.
 
-![Demonstração](./public/repo-gif.gif)
+<img align="center" src="./public/repo-gif.gif" />
 
 
 ## Requisitos de aprovação :
