@@ -1,4 +1,4 @@
-# GoStack - Desafio React Js - 
+# GoStack - Desafio ReactJs
 
 Projeto para a aplicação dos conceitos iniciais de ReactJS utilizando o Backend em NodeJs criado no desafio anterior.
 
